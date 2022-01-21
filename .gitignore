@@ -1,0 +1,10 @@
+__pycache__
+combined_results.csv
+forms/*.pdf
+forms_split/
+forms_old/
+v1
+results/
+ignore/
+
+.env
